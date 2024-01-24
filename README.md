@@ -31,7 +31,7 @@ An [Obsidian](https://obsidian.md/) plugin that synchronizes [google events](htt
       - Select "Desktop Application"
       - Input a name for this OA Application.
       - Download the OAClient credentials file.
-- Place the credentials file in `VaultFolder/.obsidian/calendar.sync.credentials.json`
+- Place the credentials file in and rename it to this `VaultFolder/.obsidian/calendar.sync.credentials.json`. 
 
 ### Manually installing the plugin
 
